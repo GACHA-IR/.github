@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
-
-* 🙋‍♀️ Gacha.IR is a team that provides infos and tools to the players of Wuthering Waves And another Gacha games.
+**🙋‍♀️ Gacha.IR is a team that provides infos and tools to the players of Wuthering Waves And another Gacha games.**
 
 ## 👩‍💻 Members of Gacha.ir
 
