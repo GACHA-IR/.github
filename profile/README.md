@@ -4,7 +4,7 @@
 
 ## 👩‍💻 Members of Gacha.ir
 
-* [Ara](Arash10Abbasi) - Founder, Developer
+* [Ara](https://github.com/Arash10Abbasi) - Founder, Developer
 * Alireza - Co-Founder, Resources
 * Moorikx - Resources
 * Mahdia  - 3D Artist
