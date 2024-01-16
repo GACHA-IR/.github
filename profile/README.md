@@ -7,4 +7,4 @@
 * [Ara](https://github.com/Arash10Abbasi) - Founder, Developer
 * Alireza - Co-Founder, Resources
 * [MoOrikX](https://github.com/MoOrikX) - Resources
-* Mahdia  - 3D Artist
+* [Mahdia](https://github.com/mahdia8) - Editor, 3D Artist
